@@ -1,3 +1,4 @@
+/* My CSS */
 * {
     margin: 0;
     padding: 0;
@@ -113,8 +114,6 @@ h1 {
 /*      */
 /* Main */
 /*      */
-
-.main {}
 
 .main_head {
     background-color: #f9f7f7;
